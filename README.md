@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Paul
 
-<!--
-**paulc02/paulc02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Advanced Statistics and Data Science (ASDS). 
 
-Here are some ideas to get you started:
+What I work with
+Python — data cleaning, time-series analysis, statistical modelling
+R — clustering, classification, neural networks
+SQL — querying and analysing relational data
+Power BI — dashboards and reporting
+Git / GitHub — notebooks, reproducible projects
+Projects
+📈 BVB Energy Volatility Forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor's thesis project. Models and forecasts the volatility of three Romanian energy stocks (OMV Petrom, Nuclearelectrica, Hidroelectrica) and the BET-NG index using ARMA, GARCH and GARCH-X models, testing whether macro variables (oil, gas, FX, ROBOR) improve the forecasts. Daily data, 2012–2026, with out-of-sample evaluation. Python time series GARCH forecasting
+
+🏦 Bank Customer Churn Prediction in R
+
+Predicts which of 10,000 bank customers are likely to leave. Compares fuzzy clustering, logistic regression, decision trees, KNN and a neural network. The neural network performed best (AUC 0.864), and age emerged as the strongest churn factor. R classification clustering churn analysis
+
+Currently
+Building a SQL + Power BI project to complement the statistical work above
+Preparing for Data Analyst / BI roles
+Get in touch
+LinkedIn: add your link here
+Email: add your email here

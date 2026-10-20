@@ -1,6 +1,6 @@
-# Hi, I'm Paul 👋
+# Paul Calamusa
 
-Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Advanced Statistics and Data Science (ASDS). I'm looking for an entry-level **Data Analyst / BI** role, with the long-term goal of growing into **Data Science**.
+Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Advanced Statistics and Data Science (ASDS). 
 
 ## What I work with
 
@@ -20,10 +20,6 @@ Bachelor's thesis project. Models and forecasts the volatility of three Romanian
 Predicts which of 10,000 bank customers are likely to leave. Compares fuzzy clustering, logistic regression, decision trees, KNN and a neural network. The neural network performed best (AUC 0.864), and age emerged as the strongest churn factor.
 `R` `classification` `clustering` `churn analysis`
 
-## Currently
-
-- Building a SQL + Power BI project to complement the statistical work above
-- Preparing for Data Analyst / BI roles
 
 ## Get in touch
 

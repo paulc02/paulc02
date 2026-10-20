@@ -23,5 +23,5 @@ Predicts which of 10,000 bank customers are likely to leave. Compares fuzzy clus
 
 ## Get in touch
 
-- LinkedIn: [add your link here](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Paul Calamusa](https://www.linkedin.com/in/paul-calamusa-b995112a7/)
 - Email: add your email here

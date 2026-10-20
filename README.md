@@ -7,8 +7,7 @@ Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) a
 - **Python** — data cleaning, time-series analysis, statistical modelling
 - **R** — clustering, classification, neural networks
 - **SQL** — querying and analysing relational data
-- **Power BI** — dashboards and reporting
-- **Git / GitHub** — notebooks, reproducible projects
+- **Power BI/Tableau** — dashboards and reporting
 
 ## Projects
 

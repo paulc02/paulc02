@@ -11,7 +11,7 @@ Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) a
 
 ## Projects
 
-### 🏦 [Loan Default Risk Analysis](https://github.com/paulc02/loan-default-risk-analysis)
+### 💳 [Loan Default Risk Analysis](https://github.com/paulc02/loan-default-risk-analysis)
 Predicts which of 307,511 loan applicants are likely to default. Combines SQL feature engineering, logistic regression and LightGBM (AUC 0.765), with a Tableau dashboard. Rejecting the riskiest 10% of applicants would avoid about 35% of defaults while losing under 8% of good clients.
 `Python` `SQL` `Tableau` `default analysis` `machine-learning`
 

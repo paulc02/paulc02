@@ -1,6 +1,8 @@
 # Paul Calamusa
 
-Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Advanced Statistics and Data Science (ASDS). 
+Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Applied Statistics and Data Science.
+
+🏆 Winner of the "Risk Radar" special award at DataSprint 2026 (ASE × KPMG).
 
 ## What I work with
 
@@ -13,7 +15,7 @@ Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) a
 ## Projects
 
 ### 📉 [S.U.P.E.R. BET: Early Warning System](https://github.com/paulc02/datasprint-2026-bet-ews)
-Built at the DataSprint 2026 datathon (ASE × KPMG). Estimates every day the probability that the BET index falls at least 5% in the next 20 trading days, by stacking logistic regression, LightGBM and a survival model under walk-forward validation, with SHAP explanations. Comes with an [interactive dashboard](https://paulc02.github.io/datasprint-2026-bet-ews/). In a historical simulation, following its alerts would have cut the portfolio's maximum drawdown from 31% to 16%.
+Built at the DataSprint 2026 datathon (ASE × KPMG), where our team won the "Risk Radar" special award. Estimates every day the probability that the BET index falls at least 5% in the next 20 trading days, by stacking logistic regression, LightGBM and a survival model under walk-forward validation, with SHAP explanations. Comes with an [interactive dashboard](https://paulc02.github.io/datasprint-2026-bet-ews/). In a historical simulation, following its alerts would have cut the portfolio's maximum drawdown from 31% to 16%.
 `Python` `TypeScript` `machine-learning` `early warning system`
 
 ### 💳 [Loan Default Risk Analysis](https://github.com/paulc02/loan-default-risk-analysis)

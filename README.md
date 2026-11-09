@@ -2,8 +2,6 @@
 
 Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) and currently a master's student in Applied Statistics and Data Science.
 
-🏆 Winner of the "Risk Radar" special award at DataSprint 2026 (ASE × KPMG).
-
 ## What I work with
 
 - **Python** — data cleaning, time-series econometrics (ARMA, GARCH), machine learning (scikit-learn, LightGBM), model explainability (SHAP)

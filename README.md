@@ -8,7 +8,6 @@ Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) a
 - **R** — clustering, classification, neural networks
 - **SQL** — PostgreSQL, feature engineering with CTEs and window functions
 - **Tableau** — interactive dashboards and reporting
-- **React + TypeScript** — interactive web dashboards for model results
 - **Git & GitHub** — version control and automated deploys with GitHub Actions
 
 ## Projects

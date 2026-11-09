@@ -13,8 +13,8 @@ Economic Cybernetics graduate (CSIE, Bucharest University of Economic Studies) a
 ## Projects
 
 ### 📉 [S.U.P.E.R. BET: Early Warning System](https://github.com/paulc02/datasprint-2026-bet-ews)
-Built at the DataSprint 2026 datathon (ASE × KPMG). Estimates every day the probability that the BET index falls at least 5% in the next 20 trading days, by stacking logistic regression, LightGBM and a survival model under walk-forward validation, with SHAP explanations. Comes with an [interactive dashboard](https://paulc02.github.io/datasprint-2026-bet-ews/) in React + TypeScript. In a historical simulation, following its alerts would have cut the portfolio's maximum drawdown from 31% to 16%.
-`Python` `TypeScript` `machine-learning` `early warning system` `explainable AI`
+Built at the DataSprint 2026 datathon (ASE × KPMG). Estimates every day the probability that the BET index falls at least 5% in the next 20 trading days, by stacking logistic regression, LightGBM and a survival model under walk-forward validation, with SHAP explanations. Comes with an [interactive dashboard](https://paulc02.github.io/datasprint-2026-bet-ews/). In a historical simulation, following its alerts would have cut the portfolio's maximum drawdown from 31% to 16%.
+`Python` `TypeScript` `machine-learning` `early warning system`
 
 ### 💳 [Loan Default Risk Analysis](https://github.com/paulc02/loan-default-risk-analysis)
 Predicts which of 307,511 loan applicants are likely to default. Combines SQL feature engineering, logistic regression and LightGBM (AUC 0.765), with a [Tableau dashboard](https://public.tableau.com/views/loan-default-risk-dashboard/Portfoliooverview). Rejecting the riskiest 10% of applicants would avoid about 35% of defaults while losing under 8% of good clients.
